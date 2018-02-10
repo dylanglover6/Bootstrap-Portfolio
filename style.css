@@ -1,0 +1,39 @@
+*    { 
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 34px;
+    font-size: 18px;
+    color: #777;
+}
+      
+body {
+    background-image:
+    url("./images/escheresque/escheresque/escheresque.png") ;
+}
+
+h3, h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+
+.footer {
+    background-color: #666;
+    color: #ffffff;
+    font-size: 12px;
+    border-top: 8px solid #4aaaa5;
+
+
+}
+
+.card-img-overlay {
+    background-color:#4aaaa5;  
+    margin-top: 170px;
+    width: 275px;
+    margin-left: 18px;
+    align-content: center;
+}
+
+.card-img-overlay p {
+    color:#ffffff;
+    padding: 3px;
+
+}
